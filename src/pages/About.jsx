@@ -1,6 +1,5 @@
-import React from "react";
 import { FaEnvelope, FaMapMarkerAlt, FaLinkedin, FaGithub } from "react-icons/fa";
-import img from "../assets/Profile.jpg";
+import img from "../assets/profile.jpg";
 import img2 from "../assets/skill.png";
 
 function About() {
