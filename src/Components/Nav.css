@@ -1,0 +1,15 @@
+.slide-bottom {
+    background-color: #121212  !important;
+    padding: 3px;
+  }
+  .nav-link {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .active-link {
+    text-decoration: none;
+    color:#00AEEF ; /* Active link color */
+    font-weight: bold;
+  }
+  
