@@ -58,7 +58,7 @@ function Contact() {
           <h1 className="text-3xl font-bold mb-8">Contact Information</h1>
           <h3 className="text-lg font-semibold">
             Email:
-            <span className="text-black p-2">prasantgadde27@gmail.com</span>
+            <span className="text-black p-2">prasanthgadde27@gmail.com</span>
           </h3>
           <h3 className="text-lg font-semibold">
             Mobile No: <span className="text-black p-2">+91 6281475515</span>
